@@ -126,7 +126,7 @@ The probability of waiting over 10 hours\* for a ping is one in a million.
 \*\* Will not occur in the 21st century.
 
 
-# Beeminder Integration
+## Beeminder Integration
 
 **WARNING: If you point TagTime at an existing Beeminder goal, TagTime will DELETE ALL YOUR DATA.**
 
@@ -145,13 +145,13 @@ Here's a handy tool if you like skating the edge of a TagTime-based Beeminder go
 
 **WARNING: TagTime will replace all existing data for the goal to make it match your TagTime log. In other words, your TagTime log is the master copy and TagTime will keep Beeminder in sync with it, including deleting data that's not found in your TagTime log.**
 
-# Android App
+## Android App
 
 There is an Android app available [on Google
 Play](https://play.google.com/store/apps/details?id=bsoule.tagtime).
 The source and build instructions are in `src/and`.
 
-# Google Group
+## Google Group
 
 For discussion and questions:
 [TagTime Google Group](https://groups.google.com/forum/?fromgroups#!forum/tagtime ).
